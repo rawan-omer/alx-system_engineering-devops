@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
+# Display process information in a user-oriented way
 
 ps -a -x -u -f
