@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# Process using ctrl+c in the previous task
+
+pid=$(pgrep -f "4-to_infinity_and_beyond")
+if [ -n "$pid" ]; then
+    echo "Stopping the process with PID: $pid"
+    kill "$pid"
+else
+    echo "Process 4-to_infinity_and_beyond not found."
+fi
