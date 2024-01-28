@@ -2,9 +2,9 @@
 # Best School 10 times, Displays Best School 9 times and then Hi
 
 i=0
-while [ $i -lt 10 ]
+while [ $i -lt 11 ]
 do
-	if [ $i -eq 8 ]
+	if [ $i -eq 9 ]
 	then
 		echo "Hi"
 	else
