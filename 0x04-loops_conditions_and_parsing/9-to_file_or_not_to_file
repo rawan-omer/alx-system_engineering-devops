@@ -1,20 +1,20 @@
 #!/usr/bin/env bash
 # School file's informations
 
-file_path="school"
+my_file="school"
 
-if [ -e "$file_path" ]
+if [ -e "$my_file" ]
 then
     echo "school file exists"
     
-    if [ -s "$file_path" ]
+    if [ -s "$my_file" ]
     then
         echo "school file is not empty"
     else
         echo "school file is empty"
     fi
     
-    if [ -f "$file_path" ]
+    if [ -f "$my_file" ]
     then
         echo "school is a regular file"
     fi
