@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+# 5-is_the_host_on_the_network {IP_ADDRESS}
+
+if [ -z "$1" ]; then
+  echo "Usage: $0 {IP_ADDRESS}"
+  exit 1
+fi
+
+# our ip adress
+ip_address="$1"
+
+# IP address 5 times
+ping_result=$(ping -c 5 "$ip_address")
+
+# Display results
+echo -e "$ping_result"
