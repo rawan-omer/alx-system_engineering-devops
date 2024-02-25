@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-25T14:58:16.172Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="xeprT68Zjf4pG77sIoib" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-25T15:01:03.058Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="1MIrBFfiUrjKGmzlMVbd" version="23.1.6" type="github">
   <diagram name="Page-1" id="2laAVb5eZ0MIzE3FBNaq">
     <mxGraphModel dx="1730" dy="468" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -20,16 +20,34 @@
           <mxGeometry x="242.5" y="343" width="30.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wYDNAWfrqgKXHHc0ijx3-6" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;" vertex="1" parent="1">
-          <mxGeometry x="279" y="268" width="359" height="205" as="geometry" />
+          <mxGeometry x="279" y="268" width="323" height="205" as="geometry" />
         </mxCell>
         <mxCell id="wYDNAWfrqgKXHHc0ijx3-7" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;" vertex="1" parent="1">
-          <mxGeometry x="273" y="34" width="361" height="212" as="geometry" />
+          <mxGeometry x="277" y="34" width="321" height="212" as="geometry" />
         </mxCell>
         <mxCell id="wYDNAWfrqgKXHHc0ijx3-8" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/web_server.svg;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="421" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wYDNAWfrqgKXHHc0ijx3-9" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/web_server.svg;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;" vertex="1" parent="1">
           <mxGeometry x="326" y="185" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wYDNAWfrqgKXHHc0ijx3-10" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.application_server2;hachureGap=4;jiggle=2;curveFitting=1;" vertex="1" parent="1">
+          <mxGeometry x="338.5" y="354" width="43" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wYDNAWfrqgKXHHc0ijx3-11" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.application_server2;hachureGap=4;jiggle=2;curveFitting=1;" vertex="1" parent="1">
+          <mxGeometry x="328" y="115" width="43" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wYDNAWfrqgKXHHc0ijx3-13" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/dep/SQL_Server_Stretch_DB.svg;hachureGap=4;jiggle=2;curveFitting=1;" vertex="1" parent="1">
+          <mxGeometry x="328" y="286" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="wYDNAWfrqgKXHHc0ijx3-14" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/dep/SQL_Server_Stretch_DB.svg;hachureGap=4;jiggle=2;curveFitting=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="54" width="46" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="wYDNAWfrqgKXHHc0ijx3-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/100-basic-for-user-interface/32/73-files-128.png;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;" vertex="1" parent="1">
+          <mxGeometry x="462" y="102" width="65" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="wYDNAWfrqgKXHHc0ijx3-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/100-basic-for-user-interface/32/73-files-128.png;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;" vertex="1" parent="1">
+          <mxGeometry x="468" y="331" width="66" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
